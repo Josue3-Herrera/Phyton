@@ -1,0 +1,14 @@
+Nombre: Bohemian Rhapsody
+Artista: Queen
+Álbum: A Night at the Opera
+Género: Rock
+Duración: 6 minutos
+Año: 1975
+
+Nombre: Hotel California
+Artista: Eagles
+Álbum: Hotel California
+Género: Rock
+Duración: 6.5 minutos minutos
+Año: 1976
+
